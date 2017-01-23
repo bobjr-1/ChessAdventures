@@ -1,0 +1,108 @@
+/*
+ *  pgn4web javascript chessboard
+ *  customized for chessgames.com, 2010
+ *  copyright (C) 2009, 2010 Paolo Casaschi
+ *  see README file and http://pgn4web.casaschi.net
+ *  for credits, license and more details
+ */
+
+@import url("../pgn4web-2.82/fonts/pgn4web-fonts.css");
+
+html, 
+body { 
+  margin: 0; 
+  padding: 0; 
+}
+
+body {
+  font-family: 'pgn4web Liberation Sans', sans-serif;
+  color: black;
+  background: white;
+}
+
+.boardTable {
+  border-style: solid; 
+  border-color: #663300;
+  border-width: 4px;
+}
+
+.pieceImage {
+  width: 52;
+  height: 52;
+}
+
+.whiteSquare,
+.blackSquare,
+.highlightWhiteSquare,
+.highlightBlackSquare {
+  width: 56;
+  height: 56;
+  border-style: solid;
+  border-width: 1;
+}
+
+.whiteSquare,
+.highlightWhiteSquare {
+  border-color: #FFCC99;
+  background: #FFCC99;
+}
+
+.blackSquare,
+.highlightBlackSquare {
+  border-color: #CC9966;
+  background: #CC9966;
+}
+
+.highlightWhiteSquare,
+.highlightBlackSquare {
+  border-style: inset;
+  border-color: gray;
+}
+
+.selectControl {
+/* a "width" attribute here must use the !important flag to override default settings */
+}
+
+.buttonControlPlay,
+.buttonControlStop,
+.buttonControl {
+/* a "width" attribute here must use the !important flag to override default settings */
+        background-color: rgb(239, 244, 236);
+        border-color: white;
+        border-style: solid;
+        border-width: 0px;
+        color: black;
+        font-size: 16px;
+}
+
+.buttonControlSpace {
+/* a "width" attribute here must use the !important flag to override default settings */
+}
+
+.searchPgnButton {
+/* a "width" attribute here must use the !important flag to override default settings */
+}
+
+.searchPgnExpression {
+/* a "width" attribute here must use the !important flag to override default settings */
+}
+
+.move,
+.moveOn {
+  color: black;
+  font-family: 'pgn4web ChessSansUsual', 'pgn4web Liberation Sans', sans-serif;
+  line-height: 1.3em;
+  font-weight: normal;
+  text-decoration: none;   
+}
+
+.moveOn {
+  background: #DDEEFF;
+}
+
+.label,
+.comment,
+.nag {
+  color: gray;
+}
+
