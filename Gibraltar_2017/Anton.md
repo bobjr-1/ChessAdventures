@@ -70,5 +70,5 @@ Voyons à présent concrètement comment David Anton s'en est sorti :
 [3]: https://en.wikipedia.org/wiki/Hikaru_Nakamura
 [4]: https://en.wikipedia.org/wiki/Emil_Sutovsky
 [5]: https://en.wikipedia.org/wiki/Veselin_Topalov
-[6]: Sutovsky
-[7]: Topalov
+[6]: https://bobjr-1.github.io/ChessAdventures/Gibraltar_2017/Sutovsky.html
+[7]: https://bobjr-1.github.io/ChessAdventures/Gibraltar_2017/Topalov.html
