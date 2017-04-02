@@ -3,6 +3,7 @@
 | Partie | Plus de détails |
 | --- | --- |
 | **[Spassky - Fischer][1]** - Mar del Plata (1), 1960 | **[Leçon 1][2]** "*Under Pressure*" |
+| **Gibraltar 2017** | La **[récitation](/Gibraltar_2017/Anton.md)** de David Anton
 
 &nbsp;
 
