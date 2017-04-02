@@ -70,5 +70,5 @@ Voyons à présent concrètement comment David Anton s'en est sorti :
 [3]: https://en.wikipedia.org/wiki/Hikaru_Nakamura
 [4]: https://en.wikipedia.org/wiki/Emil_Sutovsky
 [5]: https://en.wikipedia.org/wiki/Veselin_Topalov
-[6]: Sutovsky.md
-[7]: Topalov.md
+[6]: Sutovsky
+[7]: Topalov
