@@ -43,9 +43,26 @@ Bien soutenu par le pion e4, il restreint en effet le jeu des Noirs sur les case
 > Et même après 16. axb5 axb5 17. Txa8 Dxa8, il n'aurait aucune possibilité de se rendre maître de l'autre diagonale "utile", à savoir a4/e8, tant la case a4 appartiendrait alors aux Noirs.  
 > ![](Diag_01b.png)
 
+De façon plus générale, les figures blanches embouteillent le Fc1 et la Dame. Toutes sont encore à la recherche de leur emplacement optimal de milieu de partie.
+
 ### Points forts des Noirs
 
+![](Diag_01c.png)
 
+* **&Agrave; l'Aile Dame** : le `duo b5-c5` est impressionnant : il rayonne sur la zone a4-d4 et a repoussé les figures blanches loin à l'intérieur de leur camp.
+* **&Agrave; l'Aile Roi** : le Cavalier e5 est la pièce la mieux développée  à ce stade de la partie ; après 16. Cxe5 Cxe5 17. f4, il pourra gagner g6 sans gêner l'action de la paire de Fous le long des diagonales c8/h3 et d8/h5.
+
+### Points forts des Noirs
+
+Le Fou b7 mord sur le pion d5.  
+Toutefois, il n'est pas astreint à la défense du pion b5.
+
+-----
+
+Voyons à présent concrètement comment David Anton s'en est sorti :
+
+* face à Emil Sutovsky à la [**sixième ronde**][6] de l'Open de Gibraltar, le 29 janvier 2017 ;
+* face à Veselin Topalov à la [**neuvième ronde**][7], trois jours plus tard.
 
 
 [1]: https://fr.wikipedia.org/wiki/David_Ant%C3%B3n_Guijarro
@@ -53,3 +70,5 @@ Bien soutenu par le pion e4, il restreint en effet le jeu des Noirs sur les case
 [3]: https://en.wikipedia.org/wiki/Hikaru_Nakamura
 [4]: https://en.wikipedia.org/wiki/Emil_Sutovsky
 [5]: https://en.wikipedia.org/wiki/Veselin_Topalov
+[6]: Sutovsky.md
+[7]: Topalov.md
