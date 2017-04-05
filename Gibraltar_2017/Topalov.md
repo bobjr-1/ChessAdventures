@@ -10,8 +10,7 @@
 En près de vingt ans de carrière au plus haut niveau, Topalov n'avait été confronté que deux fois avec les Blancs à cette ouverture :
 
 * au deuxième tour éliminatoire du Championnat du Monde `FIDE` en novembre 1997 à Groningen (Pays-bas) contre le Néerlandais Jeroen PIKET (`Elo 2630`) où ce dernier lui avait joué 11... Fb7 (`+0.32 Stockfish 6 10'`) ; cette partie fut nulle en 49 coups ;  
-* à la 2ème Ronde de l'*Open* du Cap D'Agde (France), disputée le 24.10.2003 contre le Britannique Michael ADAMS (`Elo 2725`), où il choisit la même continuation que dans la partie [Sutovsky-Anton][1] : 16. Cxe5 Cxe5 17 f4, mais, comme vu dans cette partie, son adversaire préféra replier son Cavalier sur d7 (`+0.26 Stockfish 6 10'`).
+* à la 2ème Ronde de l'*Open* du Cap D'Agde (France), disputée le 24.10.2003 contre le Britannique Michael ADAMS (`Elo 2725`), où il choisit la même continuation que dans la [**partie Sutovsky-Anton**][1] : 16. Cxe5 Cxe5 17 f4, mais, comme vu dans cette partie, son adversaire préféra replier son Cavalier sur d7 (`+0.26 Stockfish 6 10'`).
 
 
-[1]: [6]: /Gibraltar_2017/Sutovsky.md
-
+[1]: [6]: https://bobjr-1.github.io/ChessAdventures/Gibraltar_2017/Sutovsky.html
