@@ -11,8 +11,8 @@ La famille d'Emil [**SUTOVSKY**][1] émigra en Israël dans les dernières anné
 
 Avant cette partie, il avait déjà affronté à deux reprises avec les Blancs la même ouverture :
 
-* le 20.06.2005 à la 8ème Ronde du III Marx Georgy de Paks (Hongrie) contre le Hongrois P. ACS (`Elo 2525`) où il avait lui-même divergé par 12. d5 (`+0.16 Stockfish 6 10'`) ; après 12... Cc4 13. b3 Ccb6 14. a4 bxa4 15. bxa4 (`+0.51 Stockfish 6 10'`), il domina longtemps avant de se tromper tactiquement et s'incliner en 46 coups ;  
-* au Championnat d'Europe à Aix-les-Bains face à L. LENIC (xxx - `Elo 2623`) (8ème Ronde - 30.03.2011) où il préféra mettre son Roi à l'abri par 12. Rh1 (`+0.00 Stockfish 6 10'`) ; cette fois là, il s'imposa en 37 coups.
+* le 20.06.2005 à la 8ème Ronde du III Marx Georgy de Paks (Hongrie) contre le Hongrois Peter ACS (`Elo 2525`) où il avait lui-même divergé par 12. d5 (`+0.16 Stockfish 6 10'`) ; après 12... Cc4 13. b3 Ccb6 14. a4 bxa4 15. bxa4 (`+0.51 Stockfish 6 10'`), il domina longtemps avant de se tromper tactiquement et s'incliner en 46 coups ;  
+* au Championnat d'Europe à Aix-les-Bains face à Luka LENIC (Slovénie - `Elo 2623`) (8ème Ronde - 30.03.2011) où il préféra mettre son Roi à l'abri par 12. Rh1 (`+0.00 Stockfish 6 10'`) ; cette fois là, il s'imposa en 37 coups.
 
 
 
