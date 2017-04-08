@@ -19,9 +19,8 @@ Théoricien chevronné, il ne se laisse pas surprendre et emprunte face à Anton
 ![](Sutovsky.png "Emil Sutovsky - Retransmission en direct de la 6&egrave;me Ronde")  
 Emil **SUTOVSKY** ![](ISR.png "Isra&ecirc;l")
 
-![](17-Nxe5.png) Il choisit **16. Cxe5** afin de pouvoir le déloger *via* f2-f4.
-
-Et en effet, il suit **16... Cxe5** (16... dxe5 offrirait un pion passé aux Blancs sur un plateau d'argent) **17. f4**
+![](17-Nxe5.png)  
+Il choisit **16. Cxe5** afin de pouvoir le déloger *via* f2-f4. Et en effet, il suit **16... Cxe5** (16... dxe5 offrirait un pion passé aux Blancs sur un plateau d'argent) **17. f4**
 
 ![](Diag_02.png) Position après **17. f4**  
 `r2q1rk1/1b2bppp/p2p4/1ppPn3/P3PP2/7P/1PBN2P1/R1BQR1K1 b - f3 0 17`
@@ -29,13 +28,14 @@ Et en effet, il suit **16... Cxe5** (16... dxe5 offrirait un pion passé aux Bla
 La question qui se pose à David [**ANTON**][2] est donc de choisir la case d'où le Cavalier pourrait exercer le plus d'influence sur le jeu.
 
 * on se rend compte rapidement que 17... Cc4 permettrait 18. Cxc4 dxc4 avec une structure de pions en charpie ; en outre, le pion c4 est indéfendable (`+0.56 Stockfish_14053109_32bit 10'`)  
-* par contre 17... Cd7 a pour effet de renforcer la tête de pont c5 sur l'Aile Dame et de laisser les coudées franches à la contre-attaque sur l'Aile Roi *via* f7-f5 ; par contre, placer le Cavalier en d7 le cantonne à un rôle strictement défensif (bien inférieur à celui qu'il jouait en e5) et condamne le Fb7, voire la Tour a8 à une passivité complète.
+* par contre, 17... Cd7 a pour effet de renforcer la tête de pont c5 sur l'Aile Dame et de laisser les coudées franches à la contre-attaque sur l'Aile Roi *via* f7-f5 ; placer le Cavalier en d7 le cantonne désormais à un rôle strictement défensif (bien inférieur à celui qu'il jouait en e5) et condamne le Fb7, voire la Tour a8 à une passivité complète.
 
-> Une partie entre Veselin [**TOPALOV**][3] et Michael [**ADAMS**][4] continua toutefois par 17... Cd7 18. Cf3 Te8 19. Fd2 où par 19... Ff6 le Britannique se priva de la réaction thématique f7-f5, puis subit avant d'être submergé par les pions d et e (Topalov-Adams, Cap d'Agde (2), 24.10.2003, 1-0, 48.)
+> Cette continuation semble délicate, du point de vue des Noirs. En effet, dans une partie entre Veselin [**TOPALOV**][3] et Michael [**ADAMS**][4] qui continua par 17... Cd7 18. Cf3 Te8 19. Fd2, le Britannique se priva de la réaction thématique f7-f5 en jouant 19... Ff6 ; il subit ensuite avant d'être finalement submergé par les pions d et e.  
+> (Topalov-Adams, Cap d'Agde (2), 24.10.2003, 1-0, 48.)
 
 * et donc, il y a **17... Cg6** que choisit Anton.
 
-Sutovsky consolide son centre (et dégage la diagonale c1/h6) par **18. Cf3**
+En réponse, Sutovsky consolide son centre et dégage du même coup la diagonale c1/h6, grâce à **18. Cf3**
 
 ![](Diag_03.png)
 
