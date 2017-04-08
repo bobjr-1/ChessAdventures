@@ -35,7 +35,8 @@ La question qui se pose à David [**ANTON**][2] est donc de choisir la case d'o�
 
 * et donc, il y a **17... Cg6** que choisit Anton.
 
-En réponse, Sutovsky consolide son centre et dégage du même coup la diagonale c1/h6, grâce à **18. Cf3**
+En réponse, Sutovsky consolide son centre grâce à **18. Cf3**  
+Il dégage du même coup la diagonale c1/h6.
 
 ![](Diag_03.png)
 
