@@ -40,11 +40,25 @@ Il dégage du même coup la diagonale c1/h6.
 
 ![](Diag_03.png)
 
-Refaisons le point.  
+Refaisons le point par rapport au [**diagramme**][5] de la page consacrée aux [**quinze premiers coups**][6] de la partie : quelles ont été les contre-mesures prises par Emil Sutovsky pour contrer les points forts de son adversaire, à savoir les cases (marquées en vert) b5-c5 (`duo de pions`) et e5 ([**Cavalier optimisé**][7], car centralisé) ?
+
+* il est incontestable que les Blancs ont pris le dessus à l'Aile Roi, grâce à la constitution d'un autre `duo` (e4-f4) puissamment soutenu par le Cf3, les Fous c1 et c2 et par la Tour e1 ;  
+* ils continuent également à annihiler l'action du Fb7 ;  
+* par contre, rien n'a été entrepris contre les pions de l'Aile Dame ;  
+* une concession a été faite au niveau des cases noires : en particulier, le contrôle par la `batterie D-F` de la diagonale d8/h4 et, potentiellement, de h4/e1, pourrait devenir une source de préoccupation.
+
+C'est ce point faible des Blancs que David Anton met en évidence. [**Il joue quasi instantanément**][8] (moins de 50", ce qui pousse son adversaire à venir précipitamment se rasseoir) **18... Ff6**
+
+
 
 
 [1]: https://en.wikipedia.org/wiki/Emil_Sutovsky
 [2]: https://fr.wikipedia.org/wiki/David_Ant%C3%B3n_Guijarro
 [3]: https://en.wikipedia.org/wiki/Veselin_Topalov
 [4]: https://en.wikipedia.org/wiki/Michael_Adams_(chess_player)
+[5]: https://bobjr-1.github.io/ChessAdventures/Gibraltar_2017/Diag_01c.png
+[6]: https://bobjr-1.github.io/ChessAdventures/Gibraltar_2017/Anton.html
+[7]: https://sites.google.com/site/rdchessfra/lesson_04/lesson_04_02
+[8]: https://sites.google.com/site/rdchessfra/lesson_04/Anton.mp4?attredirects=0&d=1
+
 
