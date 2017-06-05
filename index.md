@@ -7,7 +7,7 @@
 | &nbsp; | ... contre **[Sutovsky](/Gibraltar_2017/Sutovsky.md)** |
 | &nbsp; | ... contre **[Topalov](/Gibraltar_2017/Topalov.md)** |
 
-&nbsp;
+
 
 [1]: https://bobjr-1.github.io/ChessAdventures/Games/Game_01.html
 [2]: https://sites.google.com/site/rdchessfra/lesson_01/lesson_01_1
