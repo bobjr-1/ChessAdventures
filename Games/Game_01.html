@@ -1,0 +1,53 @@
+<html>
+
+<head>
+<title>Chess Replayer</title>
+<style>
+    body {
+        width: 750px;
+    }
+</style>
+<link rel="stylesheet" type="text/css" href="chess-replayer.css" />
+<link rel="stylesheet" type="text/css" href="Ulysses.css" />
+<link rel="shortcut icon" href="Button_N.ico" />
+<script src="jquery-1.7.2.min.js"></script>
+<script src="jquery.chess-replayer.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function () {
+    $('.chess').replayer({
+        size: 'small',
+        lightColor: "#E1F0FF",
+        darkColor: "#4587DE",
+    });
+});
+</script>
+</head>
+
+<body>
+
+<h3>Mar del Plata (02)<br>30.03.1960</h3>
+
+<div id="intro1">
+<p>
+<blockquote>ECO "C39" King's Gambit Accepted; Kieseritsky, Berlin Defense</blockquote>
+</p>
+</div>
+
+<div id="game1" class="chess">
+[Title "Boris SPASSKY - Robert J. FISCHER"]
+[StartPly "51"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. d4 
+(6.Bc4 {Ce coup est désormais devenu plus fréquent [%draw arrow,c4,f7,yellow] [%draw arrow,e5,f7,yellow]}) d6
+7. Nd3 Nxe4 8. Bxf4 Bg7 {-0.71  Stockfish 6 30"} (8...Qe7 {-0.73  Stockfish 6 30"}) 9. Nc3 Nxc3 10. bxc3 10... c5
+11. Be2 cxd4 12. O-O Nc6 13. Bxg4 O-O 14. Bxc8 Rxc8 15. Qg4 f5 
+16. Qg3 dxc3 17. Rae1 Kh8 18. Kh1 Rg8 19. Bxd6 Bf8
+20. Be5+ Nxe5 21. Qxe5+ Rg7 22. Rxf5 Qxh4+ 23. Kg1 Qg4 24. Rf2
+Be7 25. Re4 Qg5 26. Qd4 {[%draw arrow,e5,d4,green] -0.13 Stockfish 6 30" - <a href="Game_01_C1.html">commentaire détaillé</a>} Rf8 27. Re5 Rd8 28. Qe4 Qh4 29. Rf4
+1-0
+
+</div>
+
+</body>
+
+</html>
