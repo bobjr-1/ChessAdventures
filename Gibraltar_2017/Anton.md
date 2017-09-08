@@ -4,7 +4,7 @@
 
 Lors du *Tradewise Gibraltar Masters* 2017, l'Espagnol David [**ANTON**][1] (`Elo 2650` - le 25ème de ce Tournoi *Open* sur 252 participants) a réalisé une performance de choix. Au terme de neuf des dix Rondes, il s'était même acquis un demi-point d'avance sur tout le monde. Rejoint néanmoins sur le fil par le Chinois Yangyi [**YU**][2] et par l'Américain Hikaru [**NAKAMURA**][3], il céda le prix de la première place à ce dernier en parties semi-rapides lors du départage. Néanmoins, son *prize money* de 16.000 £ lui fut sans doute très apprécié.
 
-> Le [**palmarès de l'Open de Gibraltar**](https://bobjr-1.github.io/ChessAdventures/Gibraltar_2017/Palmares_Gibraltar.html)
+> [**Palmarès de l'Open de Gibraltar**](https://bobjr-1.github.io/ChessAdventures/Gibraltar_2017/Palmares_Gibraltar.html)
 
 ![](Anton.jpg "Photo : &copy; Sophie Triay")  
 **David Anton**
