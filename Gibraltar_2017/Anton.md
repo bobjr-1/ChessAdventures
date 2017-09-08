@@ -38,7 +38,7 @@ Bien soutenu par son collègue en e4, ce pion d5 restreint en effet le jeu des N
 
 ### Points faibles des Blancs
 
-&Agrave; côté de cela, le Fou c2 est encagé, de sorte qu'il est illusoire d'escompter le placer ultérieurement sur sa diagonale "efficace" h3/c8.
+&Agrave; côté de cela, le Fou c1 est encagé, de sorte qu'il est illusoire d'escompter le placer ultérieurement sur sa diagonale "efficace" h3/c8.
 
 > Et même après 16. axb5 axb5 17. Txa8 Dxa8, le Fou de cases blanches n'aurait aucune possibilité de se rendre maître de l'autre diagonale "utile", à savoir a4/e8, tant la case a4 appartiendrait alors aux Noirs.  
 > ![](Diag_01b.png "diagramme - analyse après 16. axb5 axb5 17. Txa8 Dxa8")
