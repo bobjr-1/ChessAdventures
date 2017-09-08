@@ -36,7 +36,7 @@ De fait, les Blancs ne semblent disposer que d'un seul véritable atout maître 
 
 Bien soutenu par son collègue en e4, ce pion d5 restreint en effet le jeu des Noirs sur les cases blanches. Après la man&oelig;uvre Cd2-f1-g3 (ou Cd2-f1-e3, voire Cd2-f1-h2-g4), les Blancs semblent à même de resserrer l'étreinte sur les cases f5 et/ou h5.
 
-> Ce plan est cependant assez lent : il coûte `2 tempi` qui pourraient sans doute être mieux utilisés.
+> Ce plan est cependant assez lent : il nécessité en effet `2 tempi` qui pourraient sans doute être mieux utilisés.
 
 ### Points faibles des Blancs
 

@@ -49,8 +49,10 @@ Refaisons le point par rapport au [**diagramme**][5] de la page consacrée aux [
 
 C'est ce point faible des Blancs que David Anton met en évidence. Il joue quasi instantanément (moins de 50", ce qui pousse son adversaire à [**revenir précipitamment se rasseoir**](18---Bf6.mp4)) **18... Ff6**
 
-![](Reaction.png "apr&egrave;s 18... Ff6 - capture d'&eacute;cran lors de la retransmission en direct")  
+![](Reaction.png "apr&egrave;s 18... Ff6 - capture d'&eacute;cran lors de la retransmission en direct") ![](Diag_03a.png "Comparaison entre les Fous de cases noires")  
 *Cinq minutes de réflexion plus tard, Sutovski ne semble vraiment pas à la fête.*
+
+Les Blancs sont bien embêtés : leur Fou de cases noires est misérable à côté du Ff6. Et si le pion f4 s'avançait, il créerait un nid d'aigle pour le Cavalier noir.
 
 
 [1]: https://en.wikipedia.org/wiki/Emil_Sutovsky
