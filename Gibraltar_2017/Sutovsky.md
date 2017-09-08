@@ -47,9 +47,9 @@ Refaisons le point par rapport au [**diagramme**][5] de la page consacrée aux [
 * par contre, rien n'a été entrepris contre les pions de l'Aile Dame ;  
 * une concession a été faite au niveau des cases noires : en particulier, le contrôle par la `batterie D-F` de la diagonale d8/h4 et, potentiellement, de h4/e1, pourrait devenir une source de préoccupation.
 
-C'est ce point faible des Blancs que David Anton met en évidence. [**Il joue quasi instantanément**][8] (moins de 50", ce qui pousse son adversaire à [**revenir précipitamment se rasseoir**](18---Bf6.mp4)) **18... Ff6**
+C'est ce point faible des Blancs que David Anton met en évidence. Il joue quasi instantanément (moins de 50", ce qui pousse son adversaire à [**revenir précipitamment se rasseoir**](18---Bf6.mp4)) **18... Ff6**
 
-![](Reaction.png)  
+![](Reaction.png "apr&egrave;s 18... Ff6 - capture d'&eacute;cran lors de la retransmission en direct")  
 *Cinq minutes de réflexion plus tard, Sutovski ne semble vraiment pas à la fête.*
 
 
@@ -60,6 +60,5 @@ C'est ce point faible des Blancs que David Anton met en évidence. [**Il joue qu
 [5]: https://bobjr-1.github.io/ChessAdventures/Gibraltar_2017/Diag_01c.png
 [6]: https://bobjr-1.github.io/ChessAdventures/Gibraltar_2017/Anton.html
 [7]: https://sites.google.com/site/rdchessfra/lesson_04/lesson_04_02
-[8]: https://sites.google.com/site/rdchessfra/lesson_04/Anton.mp4?attredirects=0&d=1
 
 
