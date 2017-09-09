@@ -2,6 +2,7 @@
 
 | Partie | Plus de détails |
 | --- | --- |
+| **New York 2017** | Les **[progrès](/NYork_1927/Themes.md)** dans les phases de la partie |
 | **[Spassky - Fischer][1]** - Mar del Plata (2), 1960 | **[Leçon 1][2]** "*Under Pressure*" |
 | **Gibraltar 2017** | La **[récitation](/Gibraltar_2017/Anton.md)** de David Anton |
 | &nbsp; | ... contre **[Sutovsky](/Gibraltar_2017/Sutovsky.md)** |
