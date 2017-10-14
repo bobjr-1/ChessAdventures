@@ -7,6 +7,7 @@
 | **Gibraltar 2017** | La **[récitation](/Gibraltar_2017/Anton.md)** de David Anton |
 | &nbsp; | ... contre **[Sutovsky](/Gibraltar_2017/Sutovsky.md)** |
 | &nbsp; | ... contre **[Topalov](/Gibraltar_2017/Topalov.md)** |
+| **Suivi de Tournois** | [**Coupe d'Europe des Clubs 2017**](https://bobjr-1.github.io/ReadItCool/ECC_2017_Antalya/Evernote.html) |
 
 
 
