@@ -9,7 +9,5 @@
 | &nbsp; | ... contre **[Topalov](/Gibraltar_2017/Topalov.md)** |
 | **Suivi de Tournois** | [**Coupe d'Europe des Clubs 2017**](https://bobjr-1.github.io/ReadItCool/ECC_2017_Antalya/Evernote.html) |
 
-[Test](https://bobjr-1.github.io/ChessAdventures/Games/D17_Starting/D17_Starting.html)
-
 [1]: https://bobjr-1.github.io/ChessAdventures/Games/Game_01.html
 [2]: https://sites.google.com/site/rdchessfra/lesson_01/lesson_01_1
