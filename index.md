@@ -1,5 +1,9 @@
 ## Chess Adventures
 
+[**Test de position FEN**](https://bobjr-1.github.io/ChessAdventures/FEN/template.html)
+
+---
+
 | Partie | Plus de détails |
 | --- | --- |
 | **New York 2017** | Les **[progrès](/NYork_1927/Themes.md)** dans les phases de la partie |
