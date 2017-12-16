@@ -1,0 +1,99 @@
+#container {
+    width: 60%;
+    border: 6px #9e1414 solid;
+    border-radius: 15px;
+    margin: 20px auto;
+    padding: 1%;
+ }
+
+#label {
+    border-top: 2px #9e1414 solid;
+    border-radius: 15px;
+}
+
+#pgn {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.8em;
+    background-color: #f0f8ff;
+    padding: 2%;
+}
+
+#echiquier {
+    display: flex;
+    border-bottom: 2px #9e1414 solid;
+    border-left: 2px #9e1414 solid;
+}
+
+.usual {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+.usual h1  {
+    border: 6px #dbdd77 solid;
+    border-radius: 15px;
+    background: #9e1414;
+    color: #f8f8e5;
+    padding: 10px;
+    width: fit-content;
+}
+
+.usual h2 {
+    border-radius: 15px;
+    background: #dbdd77;
+    color: #0d5729;
+    width: fit-content;
+    margin: 10px 1px 1px 1px;
+    padding: 0 10px 0 10px;
+    text-align: center;
+}
+
+.usual p {
+    padding-left: 10px;
+}
+
+.usual table {
+	font-size: 1.2em;
+	color:#333333;
+    border: 3px #b9c9fe solid;
+}
+
+.usual table th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #b9c9fe;
+}
+
+.usual table td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #cca7a7;
+    background-color: #ffffff;
+}
+
+.table-end {
+    text-align: left;
+    font-size: 0.6em;
+}
+
+.info {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS';
+    font-size: 1.2em;      
+}
+
+code {
+    border: 1px solid #f5c2e1;
+    border-radius: 5px;
+    margin-left: 2%;
+    padding: 5px;
+    color: #008000;
+    background-color: #f5c2e1;
+    font-weight: bold;
+}
+
+mark {
+    padding-left: 2px;
+    padding-right: 2px;
+}

@@ -1,0 +1,75 @@
+<html>
+
+<head>
+    <title>Template de présentation d'une partie d'&Eacute;checs</title>
+    <script type="text/javascript" src="html_tt_chess.js"></script>
+    <link rel="stylesheet" type="text/css" href="html_tt_chess.css" />
+    <link rel="stylesheet" type="text/css" href="chess_style.css" />
+</head>
+
+<body onload="parseChess()">
+
+    <div class="usual">
+        <h1>Template de présentation d'une partie d'&Eacute;checs</h1>
+        <h2>Sous-titre éventuel</h2>
+        <p>
+            Le code a été aménagé pour mettre en évidence la lutte pour la colonne c, ainsi que pour la case c4 en particulier.
+        </p>
+        <table>
+            <th>#</th>
+            <th>Classement final</th>
+            <th>Pts</th>
+            <tr>
+                <td>1.</td>
+                <td>Pogonina</td>
+                <td>7.0</td>
+            </tr>
+            <tr>
+                <td>1.</td>
+                <td>Goryachkina</td>
+                <td>7.0</td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>Kashlinskaya</td>
+                <td>6.5</td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>Girya</td>
+                <td>6.5</td>
+            </tr>
+            <th class="table-end" colspan="3">etc. - 12 participantes</th>
+        </table>
+    </div>
+
+    <div id="container">
+        <div id="label">
+            <p class="info">
+                <strong>Shuvalova - Gunina</strong>
+                <br> Russian Super Final (4), St. Petersburg, 06.12.2017</p>
+            <p>
+                <code>3r2k1/pb1nbppp/3np3/3pN3/p2P1B2/6P1/PP1NPPBP/2R3K1 b - - 1 18</code>
+            </p>
+        </div>
+
+
+        <div id="echiquier">
+            <c:chess border="a1">..(.)r..k./pb(.)nbppp/..(.)np.../..(.)pN.../p.(+)P.B../..(.)...P./PP(.)NPPBP/..(R)3K.</c:chess>
+            <div id="pgn">
+                1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Be7 5. Bg2 d5 6. Nf3 O-O 7. O-O Nbd7 8. Qc2 c6 9. Bf4 b6 10. cxd5 cxd5 11. Rc1 Bb7 12.
+                Qb3 Ne4 13. Nbd2 Nd6 14. Ne5 Rc8 15. Qa4 b5 16. Rxc8 bxa4 17. Rxd8 Rxd8 18.
+                <mark>Rc1</mark>
+            </div>
+        </div>
+
+    </div>
+   
+    <div class="usual">
+        <h2>Footer</h2>
+        <p>Ceci est un texte de conclusion</p>
+    </div>
+
+</body>
+
+</html>
