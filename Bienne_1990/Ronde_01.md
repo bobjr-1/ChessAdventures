@@ -6,10 +6,10 @@
 
 | Blancs | Noirs | &nbsp; | Ouvertures |
 | ---: | :--- | --- | :--- |
-| Ulf Andersson | Nick De Firmian | 1/2 (49.) | A08. Reti Opening (King's Indian Attack) |
-| Anatoli **Karpov** | Anthony Miles | 1-0 (42.) | C67. Ruy Lopez Berlin Defence Open Variation |
-| Lev Polougaïevski | Joël Lautier | 1/2 (17.) | E15. Queen's Indian Nimzovich Variation (Exaggerated Fianchetto) |
-| Matthias Wahls | Vlastimil Hort | 1/2 (19.) | C65. Ruy Lopez Berlin Defence |
+| Andersson | De Firmian | 1/2 (49.) | A08. Reti Opening (King's Indian Attack) |
+| **Karpov** | Miles | 1-0 (42.) | C67. Ruy Lopez Berlin Defence Open Variation |
+| Polougaïevski | Lautier | 1/2 (17.) | E15. Queen's Indian Nimzovich Variation (Exaggerated Fianchetto) |
+| Wahls | Hort | 1/2 (19.) | C65. Ruy Lopez Berlin Defence |
 
  **Classement :**
 
