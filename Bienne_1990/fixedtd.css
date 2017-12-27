@@ -1,0 +1,10 @@
+td {
+    width: 30px;
+}
+
+td strong {
+    background: #b9c9fe;
+    padding: 3px;
+    border: 1px solid #b9c9fe;
+    border-radius: 10px;
+}

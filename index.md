@@ -4,11 +4,12 @@
 | --- | --- |
 | **New York 1927** | Les **[progrès](/NYork_1927/Themes.md)** dans les phases de la partie |
 | **[Spassky - Fischer][1]** - Mar del Plata (2), 1960 | **[Leçon 1][2]** "*Under Pressure*" |
+| **Bienne 1990** | Un sommet pour **[Anatoli Karpov](/Bienne_1990/Intro.md)** |
 | **Gibraltar 2017** | La **[récitation](/Gibraltar_2017/Anton.md)** de David Anton |
 | &nbsp; | ... contre **[Sutovsky](/Gibraltar_2017/Sutovsky.md)** |
 | &nbsp; | ... contre **[Topalov](/Gibraltar_2017/Topalov.md)** |
 | **Suivi de Tournois** | [**Coupe d'Europe des Clubs 2017**](https://bobjr-1.github.io/ReadItCool/ECC_2017_Antalya/Evernote.html) |
-| **Histoire des idées** | [**Dès 1916...**][3] |
+| **Histoire des idées** | L'école *hypermoderne* [**... dès 1916 déjà**][3] |
 
 [1]: https://bobjr-1.github.io/ChessAdventures/Games/Game_01.html
 [2]: https://sites.google.com/site/rdchessfra/lesson_01/lesson_01_1
