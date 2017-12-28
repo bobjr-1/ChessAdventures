@@ -25,7 +25,7 @@ La moyenne Elo des concurrents étant comprise entre 2575 et 2600, ce Tournoi at
 
 La [**Ronde 1**](Ronde_01.md) ne connut qu'une seule partie décisive, où la patte magistrale de Karpov fit d'entrée  merveille face à une Espagnole, [Défense de Berlin](Berlin_wall.md), dix ans avant que le match Kasparov-Kramnik ne lui fasse connaître son heure de gloire.  
   
-La **Ronde 2** permit à Andersson, plus maître de son jeu positionnel que jamais, ainsi qu'au jeune Allemand Matthias Wahls de rejoindre Karpov dans le peloton de tête, ce dernier ayant rapidement annulé avec les Noirs contre Hort.  
+La [**Ronde 2**](Ronde_02.md) permit à Andersson, plus maître de son jeu positionnel que jamais, ainsi qu'au jeune Allemand Matthias Wahls de rejoindre Karpov dans le peloton de tête, ce dernier ayant rapidement annulé avec les Noirs contre Hort.  
   
 Nouvelle démonstration de force de la part de Karpov dans la **Ronde 3**. Sa victime fut cette fois Joël Lautier qu'il accula à une finale sans espoir. Miles craqua lui aussi après soixante coups dans une partie jouée jusque là au cordeau contre Hort. Au classement général, Karpov s'isolait donc à nouveau, cette fois vis-à-vis du trio Andersson, Hort et de l'étonnant Wahls.  
   
