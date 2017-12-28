@@ -2,7 +2,7 @@
 
 > Samedi 21 juillet 1990
 
-## La Ronde 1 en un coup d'œil
+## La Ronde 2 en un coup d'œil
 
 | Blancs | Noirs | &nbsp; | Ouvertures |
 | ---: | :--- | --- | :--- |
