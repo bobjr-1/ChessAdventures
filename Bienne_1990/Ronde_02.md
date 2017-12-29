@@ -22,7 +22,7 @@
 ## Analyses
 
 * [Andersson - Polougaïevski](02_Andersson_Polougaievski.md)
-* De Firmian - Miles
-* Hort - Karpov
-* Lautier - Wahls
+* [De Firmian - Miles](02_DeFirmian_Miles.md)
+* [Hort - Karpov](02_Hort_Karpov.md)
+* [Lautier - Wahls](02_Lautier_Wahls.md)
 
