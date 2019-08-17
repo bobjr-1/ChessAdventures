@@ -10,6 +10,7 @@
 | &nbsp; | ... contre **[Topalov](/Gibraltar_2017/Topalov.md)** |
 | **Suivi de Tournois** | [**Coupe d'Europe des Clubs 2017**](https://bobjr-1.github.io/ReadItCool/ECC_2017_Antalya/Evernote.html) |
 | **Histoire des idées** | L'école *hypermoderne* [**... dès 1916 déjà**][3] |
+| **Idées d'aujourd'hui** | [**jour après jour**](Daily.md) |
 
 [1]: https://bobjr-1.github.io/ChessAdventures/Games/Game_01.html
 [2]: https://sites.google.com/site/rdchessfra/lesson_01/lesson_01_1
