@@ -1,0 +1,26 @@
+[Event "Bundesliga 2018-19"]
+[Site "Viernheim GER"]
+[Date "2019.??.??"]
+[Round "12.3"]
+[White "Maze, Sebastien"]
+[Black "Nisipeanu, Liviu Dieter"]
+[Result "0-1"]
+[WhiteElo "2602"]
+[BlackElo "2674"]
+[ECO "C13"]
+[PlyCount "96"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 h6 7.Bxe7 Qxe7 8.Nb5 Nb6 9.
+c3 a6 10.Na3 c5 11.Nc2 Nc6 12.Ne2 {N} (12.Nf3 {&eacute; l'option en vogue jusque l&agrave;, mais la menace des pouss&eacute;es f2-f4 et g2-g4 ayant disparu &agrave; cause de la sortie de ce Cavalier, les Noirs pouvaient ais&eacute;ment miner la cha&icirc;ne de pions blancs et dominer la colonne f &agrave; la suite de }
+12...cxd4 13.cxd4 f6 14.exf6 Qxf6 15.Qd2 O-O {(Agrinsky-Gusev, Russian Cup, Moscou, 1998) (0-1, 36.)})
+12...Bd7 {Du coup, les Noirs cherchent &agrave; mettre leur Roi &agrave; l'abri &agrave; l'Aile Dame.}
+13.Nf4 O-O-O 14.g3 Kb8 15.Nd3 {Avec ce ballet du Cavalier, les Blancs ne s'y sont pas pris au mieux et ont perdu quelques précieux tempi.}
+15...Na4 16.Rb1 f6 17.exf6 Qxf6 18.dxc5 d4 19.Bg2 dxc3 20.Ne3 c2 21.Nxc2 Ne5
+22.f4 Nxd3+ 23.Qxd3 Bc6 24.Qe2 Nc3 25.bxc3 Qxc3+ 26.Kf1 Rd2 27.Bxc6 Rxe2 28.
+Rxb7+ Kc8 29.Kxe2 Qxc2+ 30.Kf3 Rd8 31.Rb3 Rd3+ 32.Rxd3 Qxd3+ 33.Kg2 Qc2+ 34.
+Kh3 Qf5+ 35.Kh2 Qxc5 36.Bg2 Qa3 37.Rf1 Qxa2 38.f5 exf5 39.Rxf5 a5 40.Kh3 Qe6
+41.g4 Qb3+ 42.Kh2 a4 43.h5 a3 44.Bd5 Qb2+ 45.Kg3 a2 46.Bxa2 Qxa2 47.Kh3 Kd7
+48.Kg3 Ke6 0-1
+
