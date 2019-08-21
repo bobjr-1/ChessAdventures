@@ -1,5 +1,7 @@
 ## Idées nouvelles
 
+* <a href="https://bobjr-1.github.io/ChessAdventures/Daily/20190821.html"><b>21.08.2019</b></a> - Vachier-Lagrave <code>C50</code> (Italian - Giuoco Pianissimo)
+    * <code>N</code> en pratique le 18.08.2019 - *Sinquefield Cup*, Round 2
 * <a href="https://bobjr-1.github.io/ChessAdventures/Daily/20190820.html"><b>20.08.2019</b></a> - Aronian <code>C50</code> (Italian - Giuoco Pianissimo)
     * <code>N</code> en pratique le 10.08.2019 - *Saint Louis Rapid&Blitz*, Round 1
 * <a href="https://bobjr-1.github.io/ChessAdventures/Daily/20190819.html"><b>19.08.2019</b></a> - Carlsen <code>A28</code> (English - Four Knights, Nimzovich Variation)
