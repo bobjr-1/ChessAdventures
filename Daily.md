@@ -1,5 +1,6 @@
 ## Idées nouvelles
 
+* <a href="https://bobjr-1.github.io/ChessAdventures/Daily/20190823.html"><b>23.08.2019</b></a> - Andersen <code>D85</code> (Grunfeld - Exchange Variation)
 * <a href="https://bobjr-1.github.io/ChessAdventures/Daily/20190822.html"><b>22.08.2019</b></a> - Andreikin <code>B22</code> (Sicilian - Alapin's Variation)
     * <code>N</code> en pratique le 18.07.2019 - 4&egrave;me du match contre Liren Ding
 * <a href="https://bobjr-1.github.io/ChessAdventures/Daily/20190821.html"><b>21.08.2019</b></a> - Vachier-Lagrave <code>C50</code> (Italian - Giuoco Pianissimo)
