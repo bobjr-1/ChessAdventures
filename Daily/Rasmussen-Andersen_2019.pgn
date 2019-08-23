@@ -1,0 +1,20 @@
+[Event "Xtracon Chess Open 2019"]
+[Site "Helsingor DEN"]
+[Date "2019.??.??"]
+[Round "9.5"]
+[White "Rasmussen, Allan Stig"]
+[Black "Andersen, Mad"]
+[Result "1-0"]
+[WhiteElo "2569"]
+[BlackElo "2605"]
+[ECO "D85"]
+[PlyCount "39"]
+[Opening "Gruenfeld"]
+[Variation "Exchange Variation "]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bg5 c5 8.Rc1 O-O
+9.d5 Qd6 10.Be2 f5 (10...e6 11.Nf3 exd5 12.exd5 Bg4 13.O-O Nd7 {Bartel-Bobras, Ch. par &eacute;qu. de R&eacute;p. Tch&egrave;que, 2011 (1/2, 27.)})
+11.exf5 Bxf5 12.Nf3 Nd7 13.O-O Nf6 {Les Noirs conservent un souci avec leur pion arri&eacute;r&eacute; e7, mais, gr&agrave;ce &agrave; l'activit&eacute; de leur paie de Fous et leurs Tours el liaison, ils disposent de contre-jeu.}
+14.Qb3 Ne4 15.Bxe7 Qxe7 16.d6+ Qf7 17.Bc4 Nxd6 18.Bxf7+ Rxf7 19.Qd5 Ne4 20.
+Rfe1 1-0
+
