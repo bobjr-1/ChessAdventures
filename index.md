@@ -4,7 +4,7 @@
 | :--- | :--- |
 | **Idées d'aujourd'hui** | [**Jour après jour**](Daily.md) |
 | **New York 1927** | Les **[progrès](/NYork_1927/Themes.md)** dans les phases de la partie |
-| **[Spassky - Fischer][1]** - Mar del Plata (2), 1960 | **[Leçon 1][2]** "*Under Pressure*" |
+| **[Spassky - Fischer][1]** - Mar del Plata (2), 1960 | **[Leçon 1][2]** "*Under Pressure* " |
 | **Bienne 1990** | Le **[sommet de maîtrise](/Bienne_1990/Intro.md)** de Karpov |
 | **Gibraltar 2017** | La **[récitation](/Gibraltar_2017/Anton.md)** de David Anton |
 | &nbsp; | ... contre **[Sutovsky](/Gibraltar_2017/Sutovsky.md)** |
