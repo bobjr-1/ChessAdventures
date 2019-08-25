@@ -1,6 +1,6 @@
 ## Chess Adventures
 
-| Thématique | Plus de détails |
+| <font color="#91473c">TH&Eacute;MATIQUE</font> | <font color="#91473c">PLUS DE D&Eacute;TAILS</font> |
 | :--- | :--- |
 | **Idées d'aujourd'hui** | [**Jour après jour**](Daily.md) |
 | **New York 1927** | Les **[progrès](/NYork_1927/Themes.md)** dans les phases de la partie |
