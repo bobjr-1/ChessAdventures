@@ -1,7 +1,7 @@
 ## Chess Adventures
 
-| Partie | Plus de détails |
-| --- | --- |
+| Thématique | Plus de détails |
+| :--- | :--- |
 | **Idées d'aujourd'hui** | [**Jour après jour**](Daily.md) |
 | **New York 1927** | Les **[progrès](/NYork_1927/Themes.md)** dans les phases de la partie |
 | **[Spassky - Fischer][1]** - Mar del Plata (2), 1960 | **[Leçon 1][2]** "*Under Pressure*" |
