@@ -1,4 +1,4 @@
-## Chess Adventures
+# Chess Adventures
 
 | <font color="#159957" size="5.2em">Thématique</font> | <font color="#159957" size="5.2em">Plus de détails</font> |
 | :--- | :--- |
