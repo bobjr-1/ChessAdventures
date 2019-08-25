@@ -1,5 +1,7 @@
 ## Idées nouvelles
 
+* <a href="https://bobjr-1.github.io/ChessAdventures/Daily/20190824.html"><b>24.08.2019</b></a> - Motylev <code>B40</code> (Sicilian - Anderssen Variation)
+    * <code>N</code> en pratique le 16.08.2019 - Championnat de Russie, Round 6
 * <a href="https://bobjr-1.github.io/ChessAdventures/Daily/20190823.html"><b>23.08.2019</b></a> - Andersen <code>D85</code> (Gruenfeld - Exchange Variation)
     * <code>N</code> en pratique le 27.07.2019 - *Xtracon Chess Open*, Round 9
 * <a href="https://bobjr-1.github.io/ChessAdventures/Daily/20190822.html"><b>22.08.2019</b></a> - Andreikin <code>B22</code> (Sicilian - Alapin's Variation)
