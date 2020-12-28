@@ -6,7 +6,7 @@
 
 ## Classement après 8 Rondes
 
-Ju Wenjun, Championne du Monde en titre, participait au tournoi Open - et non au tournoi féminin - du Championnat de Chine disputé à Xinghua du 19 au 30 décembre 2020.
+[Ju Wenjun](https://en.wikipedia.org/wiki/Ju_Wenjun), Championne du Monde en titre, participait au tournoi Open - et non au tournoi féminin - du Championnat de Chine disputé à Xinghua du 19 au 30 décembre 2020.
 
 ![](Round_08.png)
 
@@ -17,6 +17,9 @@ Cependant, aucun d'eux - pourtant dotés d'`Elo` supérieurs de 55 à 172 points
 
 Mieux : à aucun moment, la Championne du Monde n'a paru menacée.  
 Qu'on en juge ci-dessous.
+
+![](Ju_WCh2020.jpg)  
+(*Source : Getty Image, Vladivostok 2020*)
 
 ## Round 1 - Yi WEI - Wenjun JU
 
