@@ -6,7 +6,7 @@
 
 ## Classement après 8 Rondes
 
-[Ju Wenjun](https://en.wikipedia.org/wiki/Ju_Wenjun), Championne du Monde en titre, participait au tournoi Open - et non au tournoi féminin - du Championnat de Chine disputé à Xinghua du 19 au 30 décembre 2020.
+[**Ju Wenjun**](https://en.wikipedia.org/wiki/Ju_Wenjun), Championne du Monde en titre, participait au tournoi Open - et non au tournoi féminin - du Championnat de Chine disputé à Xinghua du 19 au 30 décembre 2020.
 
 ![](Round_08.png)
 
@@ -69,5 +69,5 @@ La partie se concluera donc par la nulle après 47 coups.
 
 Dans les trois parties, la Championne du Monde a parfaitement maîtrisé le jeu de ses adversaires, s'octroyant même une bonne chance de battre Wei Yi à la première ronde.
 
-> [Téléchargement](ChCHN_2020.pgn) de ces trois parties
+> [**Téléchargement**](ChCHN_2020.pgn) de ces trois parties
 
