@@ -34,7 +34,7 @@ Puis, il continue à jouer avec un pion en moins, sans tirer profit de son avant
 ![](Diag2_ChCHN2020.png)  
 
 Rien d'irrémédiable jusqu'alors donc.  
-Mais c'est à ce moment que Wei Yi joua **15. c5**, qui aboutit à se faire capturer ce pion c5 sans la moibdre contrepartie au 23ème coup.  
+Mais c'est à ce moment que Wei Yi joua **15. c5**, qui aboutit à se faire capturer ce pion c5 sans la moindre contrepartie au 23ème coup.  
 **Diag3** `1rr3k1/1pq1bpp1/p6p/2P1p3/1Q1pB2P/3P2P1/4PP2/R1R3K1 b - - 0 23`  
 *Position juste avant 23... Fxc5 chassant la Dame et laissant Ju Wenjun avec deux pions de plus.*   
 ![](Diag3_ChCHN2020.png)   
