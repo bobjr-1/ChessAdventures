@@ -2,6 +2,7 @@
 
 | <font color="#159957" size="5.2em">Thématique</font> | <font color="#159957" size="5.2em">Plus de détails</font> |
 | :--- | :--- |
+| **Champ. Chine 2020** | [**Ju Wenjun fait jeu égal**](/Ananlyses/Ju_Wenjun_draws.md) |
 | **Idées d'aujourd'hui** | [**Jour après jour**](Daily.md) |
 | **New York 1927** | Les **[progrès](/NYork_1927/Themes.md)** dans les phases de la partie |
 | **[Spassky - Fischer][1]** - Mar del Plata (2), 1960 | **[Leçon 1][2]** "*Under Pressure* " |
