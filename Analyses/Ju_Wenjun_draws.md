@@ -1,3 +1,9 @@
+# Championnat de Chine 2020
+
+![Xinghua](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/e6/9d/97/wujindang-scenic-resort.jpg?w=1000&h=-1&s=1)  
+*Xinghua, du 19 au 30 décembre 2020*
+
+
 ## Classement après 8 Rondes
 
 Ju Wenjun, Championne du Monde en titre, participait au tournoi Open - et non au tournoi féminin - du Championnat de Chine disputé à Xinghua du 19 au 30 décembre 2020.
